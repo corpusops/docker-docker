@@ -485,6 +485,11 @@ gen_image() {
         debug "Using dockerfiles: $dockerfiles from $_cops_IMG"
     fi
     cat $dockerfiles | envsubst '$_cops_BASE;$_cops_VERSION;' > Dockerfile
+    ### docker-docker
+    if ! (echo "$ldir"|egrep -iq rootless);then
+        sed -i -re "/USER/d" Dockerfile
+    fi
+    ### end: docker-docker
     cd - &>/dev/null
 }
 ### end - docker remote api
