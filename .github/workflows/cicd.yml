@@ -65,9 +65,9 @@ jobs:
       fail-fast: false
       matrix:
         IMAGES:
-        - "library/docker/dind library/docker/dind-rootless library/docker/edge library/docker/edge-dind library/docker/experimental library/docker/experimental-dind library/docker/git"
-        - "library/docker/latest library/docker/rc library/docker/rc-dind library/docker/rc-dind-rootless library/docker/rc-experimental library/docker/rc-experimental-dind library/docker/stable"
-        - "library/docker/stable-dind library/docker/stable-dind-rootless library/docker/test library/docker/test-dind library/docker/test-dind-rootless"
+        - "library/docker/dind library/docker/20 library/docker/dind-rootless library/docker/edge library/docker/edge-dind library/docker/experimental library/docker/experimental-dind"
+        - "library/docker/git library/docker/latest library/docker/rc library/docker/rc-dind library/docker/rc-dind-rootless library/docker/rc-experimental library/docker/rc-experimental-dind"
+        - "library/docker/stable library/docker/stable-dind library/docker/stable-dind-rootless library/docker/test library/docker/test-dind library/docker/test-dind-rootless"
         #- "corpusops/test/a corpusops/test/b corpusops/test/c"
         # all images that werent explicitly told to be built would be built in the next batches
         # we span them onto N jobs

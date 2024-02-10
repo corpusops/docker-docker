@@ -1,4 +1,4 @@
-1 17.03.0-ce-rc1-git
+1
 1-dind
 1-experimental
 1-experimental-dind
@@ -9,29 +9,33 @@
 1.0-git
 1.0.1
 1.0.1-dind
+1.0.1-git
 1.1
 1.1-dind
 1.1-git
 1.1.2
 1.1.2-dind
 1.1.2-git
-1.2 1.5-dind
+1.2
 1.2-dind
 1.2-git
 1.2.0
+1.2.0-dind
 1.2.0-git
-1.3 1.4-dind
+1.3
 1.3-dind
 1.3-git
 1.3.3
 1.3.3-dind
 1.3.3-git
 1.4
+1.4-dind
 1.4-git
 1.4.1
 1.4.1-dind
 1.4.1-git
 1.5
+1.5-dind
 1.5-git
 1.5.0
 1.5.0-dind
@@ -39,12 +43,13 @@
 1.6
 1.6-dind
 1.6-git
-1.6.2 1.2.0-dind
+1.6.2
 1.6.2-dind
-1.6.2-git 1.0.1-git
-1.7 1.7.1
+1.6.2-git
+1.7
 1.7-dind
 1.7-git
+1.7.1
 1.7.1-dind
 1.7.1-git
 1.8
@@ -52,7 +57,7 @@
 1.8-git
 1.8-rc
 1.8-rc-dind
-1.8-rc-git 1.8.2-rc1-git
+1.8-rc-git
 1.8.1
 1.8.1-dind
 1.8.1-git
@@ -61,14 +66,16 @@
 1.8.2-git
 1.8.2-rc1
 1.8.2-rc1-dind
-1.8.3 1.10.0-rc2-git
+1.8.2-rc1-git
+1.8.3
 1.8.3-dind
 1.8.3-git
 1.9
+1.9-dind
 1.9-git
 1.9-rc
 1.9-rc-dind
-1.9-rc-git 1.9.1-rc1-git
+1.9-rc-git
 1.9.0
 1.9.0-dind
 1.9.0-git
@@ -77,7 +84,8 @@
 1.9.0-rc1-git
 1.9.0-rc2
 1.9.0-rc2-dind
-1.9.0-rc3 1.9.0-rc2-git
+1.9.0-rc2-git
+1.9.0-rc3
 1.9.0-rc3-dind
 1.9.0-rc3-git
 1.9.0-rc4
@@ -88,27 +96,31 @@
 1.9.0-rc5-git
 1.9.1
 1.9.1-dind
-1.9.1-git 1.9-dind
+1.9.1-git
 1.9.1-rc1
 1.9.1-rc1-dind
-1.10 1.12.0-rc4-dind
+1.9.1-rc1-git
+1.10
 1.10-dind
 1.10-git
 1.10-rc
 1.10-rc-dind
 1.10-rc-git
-1.10.0-dind 1.10.0
+1.10.0
+1.10.0-dind
 1.10.0-git
 1.10.0-rc1
 1.10.0-rc1-dind
 1.10.0-rc1-git
 1.10.0-rc2
 1.10.0-rc2-dind
+1.10.0-rc2-git
 1.10.0-rc3
 1.10.0-rc3-dind
 1.10.0-rc3-git
 1.10.1
-1.10.1-git 1.10.1-dind
+1.10.1-dind
+1.10.1-git
 1.10.2
 1.10.2-dind
 1.10.2-git
@@ -118,6 +130,7 @@
 1.10.3
 1.10.3-dind
 1.10.3-git
+1.11
 1.11-dind
 1.11-git
 1.11-rc
@@ -131,31 +144,34 @@
 1.11.0-rc3-git
 1.11.0-rc4
 1.11.0-rc4-dind
-1.11.0-rc5 1.11.0-rc4-git
+1.11.0-rc4-git
+1.11.0-rc5
 1.11.0-rc5-dind
 1.11.0-rc5-git
 1.11.1
 1.11.1-dind
 1.11.1-git
 1.11.2
-1.11.2-dind 1.11
+1.11.2-dind
 1.11.2-git
 1.12
 1.12-dind
-1.12-experimental 1.12.6-experimental
+1.12-experimental
 1.12-experimental-dind
 1.12-experimental-git
 1.12-git
 1.12-rc
 1.12-rc-dind
-1.12-rc-experimental 1.12.2-rc3-experimental
+1.12-rc-experimental
 1.12-rc-experimental-dind
 1.12-rc-experimental-git
 1.12-rc-git
-1.12.0-dind 1.12.0
+1.12.0
+1.12.0-dind
 1.12.0-git
 1.12.0-rc1
-1.12.0-rc1-git 1.12.0-rc1-dind
+1.12.0-rc1-dind
+1.12.0-rc1-git
 1.12.0-rc2
 1.12.0-rc2-dind
 1.12.0-rc2-git
@@ -163,19 +179,22 @@
 1.12.0-rc3-dind
 1.12.0-rc3-git
 1.12.0-rc4
+1.12.0-rc4-dind
 1.12.0-rc4-git
 1.12.0-rc5
 1.12.0-rc5-dind
 1.12.0-rc5-git
 1.12.1
+1.12.1-dind
 1.12.1-experimental
 1.12.1-experimental-dind
 1.12.1-experimental-git
-1.12.1-git 1.12.1-dind
+1.12.1-git
 1.12.2
 1.12.2-dind
 1.12.2-experimental
 1.12.2-experimental-dind
+1.12.2-experimental-git
 1.12.2-git
 1.12.2-rc1
 1.12.2-rc1-dind
@@ -184,17 +203,20 @@
 1.12.2-rc1-git
 1.12.2-rc2
 1.12.2-rc2-dind
-1.12.2-rc2-experimental-dind 1.12.2-rc2-experimental
+1.12.2-rc2-experimental
+1.12.2-rc2-experimental-dind
 1.12.2-rc2-experimental-git
 1.12.2-rc2-git
 1.12.2-rc3
 1.12.2-rc3-dind
+1.12.2-rc3-experimental
 1.12.2-rc3-experimental-dind
 1.12.2-rc3-experimental-git
 1.12.2-rc3-git
 1.12.3
 1.12.3-dind
-1.12.3-experimental-dind 1.12.3-experimental
+1.12.3-experimental
+1.12.3-experimental-dind
 1.12.3-experimental-git
 1.12.3-git
 1.12.4
@@ -202,14 +224,16 @@
 1.12.4-experimental
 1.12.4-experimental-dind
 1.12.4-experimental-git
-1.12.4-git 1.13.0-rc3-git
+1.12.4-git
 1.12.5
 1.12.5-dind
 1.12.5-experimental
 1.12.5-experimental-dind
+1.12.5-experimental-git
 1.12.5-git
 1.12.6
 1.12.6-dind
+1.12.6-experimental
 1.12.6-experimental-dind
 1.12.6-experimental-git
 1.12.6-git
@@ -217,11 +241,12 @@
 1.13-dind
 1.13-git
 1.13-rc
+1.13-rc-dind
 1.13-rc-git
 1.13.0
 1.13.0-dind
 1.13.0-git
-1.13.0-rc1 1.12.2-experimental-git
+1.13.0-rc1
 1.13.0-rc1-dind
 1.13.0-rc1-git
 1.13.0-rc2
@@ -229,10 +254,11 @@
 1.13.0-rc2-git
 1.13.0-rc3
 1.13.0-rc3-dind
+1.13.0-rc3-git
 1.13.0-rc4
 1.13.0-rc4-dind
 1.13.0-rc4-git
-1.13.0-rc5 1.12.5-experimental-git
+1.13.0-rc5
 1.13.0-rc5-dind
 1.13.0-rc5-git
 1.13.0-rc6
@@ -240,27 +266,31 @@
 1.13.0-rc6-git
 1.13.0-rc7
 1.13.0-rc7-dind
-1.13.0-rc7-git 1.13-rc-dind
-1.13.1 17.04-rc-git
+1.13.0-rc7-git
+1.13.1
 1.13.1-dind
 1.13.1-git
 17
 17-dind
+17-git
 17-windowsservercore
 17.03
 17.03-dind
 17.03-git
 17.03-rc
 17.03-rc-dind
-17.03-rc-git 17.03.2-ce-rc1-git
+17.03-rc-git
 17.03.0
 17.03.0-ce
 17.03.0-ce-dind
+17.03.0-ce-git
 17.03.0-ce-rc1
 17.03.0-ce-rc1-dind
+17.03.0-ce-rc1-git
 17.03.0-dind
-17.03.0-git 17.03.0-ce-git
-17.03.1 17.03.1-ce
+17.03.0-git
+17.03.1
+17.03.1-ce
 17.03.1-ce-dind
 17.03.1-ce-git
 17.03.1-dind
@@ -268,15 +298,19 @@
 17.03.2
 17.03.2-ce
 17.03.2-ce-dind
+17.03.2-ce-git
 17.03.2-ce-rc1
 17.03.2-ce-rc1-dind
+17.03.2-ce-rc1-git
 17.03.2-dind
-17.03.2-git 17.03.2-ce-git
-17.04 17.04.0
+17.03.2-git
+17.04
 17.04-dind
 17.04-git
 17.04-rc
 17.04-rc-dind
+17.04-rc-git
+17.04.0
 17.04.0-ce
 17.04.0-ce-dind
 17.04.0-ce-git
@@ -290,6 +324,7 @@
 17.04.0-git
 17.05
 17.05-dind
+17.05-git
 17.05-rc
 17.05-rc-dind
 17.05-rc-git
@@ -300,14 +335,15 @@
 17.05.0-ce-rc1
 17.05.0-ce-rc1-dind
 17.05.0-ce-rc1-git
-17.05.0-ce-rc2-dind 17.05.0-ce-rc2
+17.05.0-ce-rc2
+17.05.0-ce-rc2-dind
 17.05.0-ce-rc2-git
 17.05.0-ce-rc3
 17.05.0-ce-rc3-dind
 17.05.0-ce-rc3-git
 17.05.0-dind
 17.05.0-git
-17.06 17.06.2
+17.06
 17.06-dind
 17.06-git
 17.06-rc
@@ -315,12 +351,13 @@
 17.06-rc-git
 17.06-windowsservercore
 17.06.0
-17.06.0-ce 17.06.1-ce-rc4-git
+17.06.0-ce
 17.06.0-ce-dind
 17.06.0-ce-git
 17.06.0-ce-rc1
 17.06.0-ce-rc1-dind
-17.06.0-ce-rc2 17.06.0-ce-rc1-git
+17.06.0-ce-rc1-git
+17.06.0-ce-rc2
 17.06.0-ce-rc2-dind
 17.06.0-ce-rc2-git
 17.06.0-ce-rc3
@@ -329,7 +366,7 @@
 17.06.0-ce-rc4
 17.06.0-ce-rc4-dind
 17.06.0-ce-rc4-git
-17.06.0-ce-rc5 17.05-git
+17.06.0-ce-rc5
 17.06.0-ce-rc5-dind
 17.06.0-ce-rc5-git
 17.06.0-dind
@@ -337,6 +374,7 @@
 17.06.1
 17.06.1-ce
 17.06.1-ce-dind
+17.06.1-ce-git
 17.06.1-ce-rc1
 17.06.1-ce-rc1-dind
 17.06.1-ce-rc1-git
@@ -348,8 +386,10 @@
 17.06.1-ce-rc3-git
 17.06.1-ce-rc4
 17.06.1-ce-rc4-dind
+17.06.1-ce-rc4-git
 17.06.1-dind
-17.06.1-git 17.06.1-ce-git
+17.06.1-git
+17.06.2
 17.06.2-ce
 17.06.2-ce-dind
 17.06.2-ce-git
@@ -361,9 +401,9 @@
 17.06.2-git
 17.06.2-windowsservercore
 17.07
-17.07-dind 17.07.0-dind
+17.07-dind
 17.07-git
-17.07-rc 17.07.0-ce-rc4
+17.07-rc
 17.07-rc-dind
 17.07-rc-git
 17.07.0
@@ -371,30 +411,36 @@
 17.07.0-ce-dind
 17.07.0-ce-git
 17.07.0-ce-rc1
-17.07.0-ce-rc1-git 17.07.0-ce-rc1-dind
+17.07.0-ce-rc1-dind
+17.07.0-ce-rc1-git
 17.07.0-ce-rc2
 17.07.0-ce-rc2-dind
 17.07.0-ce-rc2-git
 17.07.0-ce-rc3
 17.07.0-ce-rc3-dind
 17.07.0-ce-rc3-git
+17.07.0-ce-rc4
 17.07.0-ce-rc4-dind
 17.07.0-ce-rc4-git
+17.07.0-dind
 17.07.0-git
 17.09
 17.09-dind
 17.09-git
 17.09-rc
 17.09-rc-dind
+17.09-rc-git
 17.09-windowsservercore
 17.09-windowsservercore-1709
 17.09-windowsservercore-ltsc2016
+17.09.0
 17.09.0-ce
-17.09.0-ce-dind 17.09.0
+17.09.0-ce-dind
 17.09.0-ce-git
 17.09.0-ce-rc1
 17.09.0-ce-rc1-dind
-17.09.0-ce-rc2 17.09.0-ce-rc1-git
+17.09.0-ce-rc1-git
+17.09.0-ce-rc2
 17.09.0-ce-rc2-dind
 17.09.0-ce-rc2-git
 17.09.0-ce-rc3
@@ -409,7 +455,7 @@
 17.09.0-windowsservercore-1709
 17.09.0-windowsservercore-ltsc2016
 17.09.1
-17.09.1-ce 18.01-git
+17.09.1-ce
 17.09.1-ce-dind
 17.09.1-ce-git
 17.09.1-ce-rc1
@@ -417,22 +463,24 @@
 17.09.1-ce-rc1-git
 17.09.1-dind
 17.09.1-git
+17.10
 17.10-dind
 17.10-git
-17.10-rc 17.10.0-ce-rc2
+17.10-rc
 17.10-rc-dind
 17.10-rc-git
 17.10-windowsservercore
 17.10.0
 17.10.0-ce
-17.10.0-ce-dind 17.10
+17.10.0-ce-dind
 17.10.0-ce-git
 17.10.0-ce-rc1
 17.10.0-ce-rc1-dind
 17.10.0-ce-rc1-git
+17.10.0-ce-rc2
 17.10.0-ce-rc2-dind
 17.10.0-ce-rc2-git
-17.10.0-ce-windowsservercore test-windowsservercore
+17.10.0-ce-windowsservercore
 17.10.0-dind
 17.10.0-git
 17.10.0-windowsservercore
@@ -441,20 +489,23 @@
 17.11-git
 17.11-rc
 17.11-rc-dind
-17.11-rc-git 17.11.0-ce-rc4-git
+17.11-rc-git
 17.11-rc-windowsservercore
-17.11.0 17.11.0-ce
+17.11.0
+17.11.0-ce
 17.11.0-ce-dind
 17.11.0-ce-git
 17.11.0-ce-rc2
 17.11.0-ce-rc2-dind
 17.11.0-ce-rc2-git
 17.11.0-ce-rc2-windowsservercore
-17.11.0-ce-rc3-dind 17.11.0-ce-rc3
+17.11.0-ce-rc3
+17.11.0-ce-rc3-dind
 17.11.0-ce-rc3-git
 17.11.0-ce-rc3-windowsservercore
 17.11.0-ce-rc4
 17.11.0-ce-rc4-dind
+17.11.0-ce-rc4-git
 17.11.0-dind
 17.11.0-git
 17.12
@@ -466,8 +517,8 @@
 17.12.0
 17.12.0-ce
 17.12.0-ce-dind
-17.12.0-ce-git 17.12.0-dind
-17.12.0-ce-rc1 17.09-rc-git
+17.12.0-ce-git
+17.12.0-ce-rc1
 17.12.0-ce-rc1-dind
 17.12.0-ce-rc1-git
 17.12.0-ce-rc2
@@ -476,8 +527,10 @@
 17.12.0-ce-rc3
 17.12.0-ce-rc3-dind
 17.12.0-ce-rc3-git
-17.12.0-ce-rc4-dind 17.12.0-ce-rc4
+17.12.0-ce-rc4
+17.12.0-ce-rc4-dind
 17.12.0-ce-rc4-git
+17.12.0-dind
 17.12.0-git
 17.12.1
 17.12.1-ce
@@ -486,7 +539,7 @@
 17.12.1-ce-rc1
 17.12.1-ce-rc1-dind
 17.12.1-ce-rc1-git
-17.12.1-ce-rc2 18.02-git
+17.12.1-ce-rc2
 17.12.1-ce-rc2-dind
 17.12.1-ce-rc2-git
 17.12.1-dind
@@ -496,6 +549,7 @@
 18-git
 18.01
 18.01-dind
+18.01-git
 18.01-rc
 18.01-rc-dind
 18.01-rc-git
@@ -510,7 +564,8 @@
 18.01.0-git
 18.02
 18.02-dind
-18.02-rc 18.02.0-ce-rc2
+18.02-git
+18.02-rc
 18.02-rc-dind
 18.02-rc-git
 18.02.0
@@ -518,20 +573,26 @@
 18.02.0-ce-dind
 18.02.0-ce-git
 18.02.0-ce-rc1
-18.02.0-ce-rc1-git 18.02.0-ce-rc1-dind
+18.02.0-ce-rc1-dind
+18.02.0-ce-rc1-git
+18.02.0-ce-rc2
 18.02.0-ce-rc2-dind
 18.02.0-ce-rc2-git
 18.02.0-dind
 18.02.0-git
+18.03
+18.03-dind
 18.03-git
 18.03-rc
 18.03-rc-dind
-18.03-rc-git 18.03.1-ce-rc2-git
+18.03-rc-git
+18.03.0
 18.03.0-ce
 18.03.0-ce-dind
-18.03.0-ce-git 18.03.0
+18.03.0-ce-git
 18.03.0-ce-rc1
-18.03.0-ce-rc1-git 18.03.0-ce-rc1-dind
+18.03.0-ce-rc1-dind
+18.03.0-ce-rc1-git
 18.03.0-ce-rc3
 18.03.0-ce-rc3-dind
 18.03.0-ce-rc3-git
@@ -543,30 +604,33 @@
 18.03.1
 18.03.1-ce
 18.03.1-ce-dind
-18.03.1-ce-git 18.03
+18.03.1-ce-git
 18.03.1-ce-rc1
 18.03.1-ce-rc1-dind
 18.03.1-ce-rc1-git
 18.03.1-ce-rc2
 18.03.1-ce-rc2-dind
+18.03.1-ce-rc2-git
 18.03.1-dind
 18.03.1-git
 18.04
 18.04-dind
 18.04-git
+18.04-rc
 18.04-rc-dind
 18.04-rc-git
 18.04.0
 18.04.0-ce
 18.04.0-ce-dind
+18.04.0-ce-git
 18.04.0-ce-rc1
 18.04.0-ce-rc1-dind
 18.04.0-ce-rc1-git
 18.04.0-ce-rc2
-18.04.0-ce-rc2-dind 18.04-rc
+18.04.0-ce-rc2-dind
 18.04.0-ce-rc2-git
 18.04.0-dind
-18.04.0-git 18.04.0-ce-git
+18.04.0-git
 18.05
 18.05-dind
 18.05-git
@@ -578,29 +642,31 @@
 18.05.0-ce-dind
 18.05.0-ce-git
 18.05.0-ce-rc1
-18.05.0-ce-rc1-dind 17-git
+18.05.0-ce-rc1-dind
 18.05.0-ce-rc1-git
 18.05.0-dind
 18.05.0-git
 18.06
 18.06-dind
 18.06-git
-18.06-rc 18.06.1-ce-rc2
+18.06-rc
 18.06-rc-dind
 18.06-rc-git
 18.06.0
 18.06.0-ce
 18.06.0-ce-dind
+18.06.0-ce-git
+18.06.0-ce-rc1
 18.06.0-ce-rc1-dind
-18.06.0-ce-rc1-git 18.06.0-ce-rc1
-18.06.0-ce-rc2 18.03-dind
+18.06.0-ce-rc1-git
+18.06.0-ce-rc2
 18.06.0-ce-rc2-dind
 18.06.0-ce-rc2-git
 18.06.0-ce-rc3
 18.06.0-ce-rc3-dind
 18.06.0-ce-rc3-git
 18.06.0-dind
-18.06.0-git 18.06.0-ce-git
+18.06.0-git
 18.06.1
 18.06.1-ce
 18.06.1-ce-dind
@@ -608,11 +674,13 @@
 18.06.1-ce-rc1
 18.06.1-ce-rc1-dind
 18.06.1-ce-rc1-git
+18.06.1-ce-rc2
 18.06.1-ce-rc2-dind
 18.06.1-ce-rc2-git
 18.06.1-dind
+18.06.1-git
 18.06.2
-18.06.2-ce 18.06.1-git
+18.06.2-ce
 18.06.2-ce-dind
 18.06.2-ce-git
 18.06.2-dind
@@ -621,11 +689,12 @@
 18.06.3-ce
 18.06.3-ce-dind
 18.06.3-ce-git
-18.06.3-git 18.06.3-dind
+18.06.3-dind
+18.06.3-git
 18.09
 18.09-dind
 18.09-git
-18.09-rc 19.03.2-rc1-dind-rootless
+18.09-rc
 18.09-rc-dind
 18.09-rc-git
 18.09.0
@@ -635,7 +704,7 @@
 18.09.0-beta5
 18.09.0-beta5-dind
 18.09.0-beta5-git
-18.09.0-ce-beta1 18.09.0-ce-tp6-git
+18.09.0-ce-beta1
 18.09.0-ce-beta1-dind
 18.09.0-ce-beta1-git
 18.09.0-ce-tp3
@@ -646,8 +715,11 @@
 18.09.0-ce-tp4-git
 18.09.0-ce-tp6
 18.09.0-ce-tp6-dind
-18.09.0-git 18.09.0-dind
-18.09.0-rc1-dind 18.09.0-rc1
+18.09.0-ce-tp6-git
+18.09.0-dind
+18.09.0-git
+18.09.0-rc1
+18.09.0-rc1-dind
 18.09.0-rc1-git
 18.09.1
 18.09.1-beta2
@@ -658,7 +730,8 @@
 18.09.1-rc1
 18.09.1-rc1-dind
 18.09.1-rc1-git
-18.09.2-dind 18.09.2
+18.09.2
+18.09.2-dind
 18.09.2-git
 18.09.3
 18.09.3-dind
@@ -668,15 +741,17 @@
 18.09.3-rc1-git
 18.09.4
 18.09.4-dind
+18.09.4-git
 18.09.4-rc1
 18.09.4-rc1-dind
 18.09.4-rc1-git
 18.09.5
+18.09.5-dind
 18.09.5-git
 18.09.5-rc1
 18.09.5-rc1-dind
 18.09.5-rc1-git
-18.09.6 19.03.0-rc2-git
+18.09.6
 18.09.6-dind
 18.09.6-git
 18.09.6-rc1
@@ -691,18 +766,21 @@
 18.09.8
 18.09.8-dind
 18.09.8-git
+18.09.9
 18.09.9-beta1
-18.09.9-beta1-git 18.09.9-beta1-dind
-18.09.9-dind 18.09.9
+18.09.9-beta1-dind
+18.09.9-beta1-git
+18.09.9-dind
 18.09.9-git
 18.09.9-rc1
 18.09.9-rc1-dind
 18.09.9-rc1-git
 19
 19-dind
-19-dind-rootless 20.10.7-windowsservercore-1809
+19-dind-rootless
 19-git
-19.03-dind 19.03
+19.03
+19.03-dind
 19.03-dind-rootless
 19.03-git
 19.03-rc
@@ -710,16 +788,17 @@
 19.03-rc-dind-rootless
 19.03-rc-git
 19.03.0
-19.03.0-beta1 18.09.4-git
+19.03.0-beta1
 19.03.0-beta1-dind
 19.03.0-beta1-git
-19.03.0-beta2 18.09.5-dind
+19.03.0-beta2
 19.03.0-beta2-dind
 19.03.0-beta2-git
 19.03.0-beta3
 19.03.0-beta3-dind
 19.03.0-beta3-git
-19.03.0-beta4-dind 19.03.0-beta4
+19.03.0-beta4
+19.03.0-beta4-dind
 19.03.0-beta4-git
 19.03.0-beta5
 19.03.0-beta5-dind
@@ -728,21 +807,25 @@
 19.03.0-git
 19.03.0-rc2
 19.03.0-rc2-dind
-19.03.0-rc3-dind 19.03.0-rc3
+19.03.0-rc2-git
+19.03.0-rc3
+19.03.0-rc3-dind
 19.03.0-rc3-git
 19.03.1
 19.03.1-dind
 19.03.1-dind-rootless
 19.03.1-git
+19.03.2
 19.03.2-beta1
 19.03.2-beta1-dind
 19.03.2-beta1-dind-rootless
 19.03.2-beta1-git
-19.03.2-dind 19.03.2
+19.03.2-dind
 19.03.2-dind-rootless
 19.03.2-git
 19.03.2-rc1
 19.03.2-rc1-dind
+19.03.2-rc1-dind-rootless
 19.03.2-rc1-git
 19.03.3
 19.03.3-beta1
@@ -752,10 +835,11 @@
 19.03.3-beta2
 19.03.3-beta2-dind
 19.03.3-beta2-dind-rootless
+19.03.3-beta2-git
 19.03.3-dind
 19.03.3-dind-rootless
 19.03.3-git
-19.03.3-rc1 19.03.3-beta2-git
+19.03.3-rc1
 19.03.3-rc1-dind
 19.03.3-rc1-dind-rootless
 19.03.3-rc1-git
@@ -764,23 +848,26 @@
 19.03.4-dind-rootless
 19.03.4-git
 19.03.4-rc1
-19.03.4-rc1-dind-rootless 19.03.4-rc1-dind
+19.03.4-rc1-dind
+19.03.4-rc1-dind-rootless
 19.03.4-rc1-git
 19.03.5
 19.03.5-beta1
 19.03.5-beta1-dind
 19.03.5-beta1-dind-rootless
-19.03.5-beta2 19.03.5-beta1-git
+19.03.5-beta1-git
+19.03.5-beta2
 19.03.5-beta2-dind
 19.03.5-beta2-dind-rootless
 19.03.5-beta2-git
-19.03.5-dind-rootless 19.03.5-dind
+19.03.5-dind
+19.03.5-dind-rootless
 19.03.5-git
 19.03.5-rc1
 19.03.5-rc1-dind
 19.03.5-rc1-dind-rootless
 19.03.5-rc1-git
-19.03.6 19.03.6-rc2-git
+19.03.6
 19.03.6-dind
 19.03.6-dind-rootless
 19.03.6-git
@@ -791,13 +878,15 @@
 19.03.6-rc2
 19.03.6-rc2-dind
 19.03.6-rc2-dind-rootless
+19.03.6-rc2-git
 19.03.7
 19.03.7-dind
 19.03.7-dind-rootless
 19.03.7-git
 19.03.8
-19.03.8-dind 19.03.8-git
+19.03.8-dind
 19.03.8-dind-rootless
+19.03.8-git
 19.03.9
 19.03.9-dind
 19.03.9-dind-rootless
@@ -805,7 +894,8 @@
 19.03.10
 19.03.10-dind
 19.03.10-dind-rootless
-19.03.11 19.03.10-git
+19.03.10-git
+19.03.11
 19.03.11-dind
 19.03.11-dind-rootless
 19.03.11-git
@@ -813,19 +903,22 @@
 19.03.12-dind
 19.03.12-dind-rootless
 19.03.12-git
-19.03.13 19.03.13-beta2-git
+19.03.13
 19.03.13-beta1
-19.03.13-beta1-dind-rootless 19.03.13-beta1-dind
+19.03.13-beta1-dind
+19.03.13-beta1-dind-rootless
 19.03.13-beta1-git
 19.03.13-beta2
 19.03.13-beta2-dind
 19.03.13-beta2-dind-rootless
+19.03.13-beta2-git
 19.03.13-dind
 19.03.13-dind-rootless
 19.03.13-git
 19.03.14
+19.03.14-dind
 19.03.14-dind-rootless
-19.03.14-git 19.03.14-dind
+19.03.14-git
 19.03.15
 19.03.15-alpine3.13
 19.03.15-dind
@@ -833,24 +926,32 @@
 19.03.15-dind-rootless
 19.03.15-git
 20
+20-cli
 20-dind
 20-dind-rootless
 20-git
 20-windowsservercore
 20-windowsservercore-1809
+20-windowsservercore-ltsc2022
 20.10
+20.10-cli
 20.10-dind
 20.10-dind-rootless
+20.10-git
 20.10-rc
 20.10-rc-dind
-20.10-rc-dind-rootless stable-git
+20.10-rc-dind-rootless
 20.10-rc-git
+20.10-rc-windowsservercore
+20.10-rc-windowsservercore-1809
 20.10-windowsservercore
 20.10-windowsservercore-1809
+20.10-windowsservercore-ltsc2022
 20.10.0
 20.10.0-beta1
 20.10.0-beta1-dind
-20.10.0-beta1-dind-rootless 20.10.0-beta1-git
+20.10.0-beta1-dind-rootless
+20.10.0-beta1-git
 20.10.0-dind
 20.10.0-dind-rootless
 20.10.0-git
@@ -871,7 +972,8 @@
 20.10.2-dind-rootless
 20.10.2-git
 20.10.3
-20.10.3-dind-rootless 20.10.3-dind
+20.10.3-dind
+20.10.3-dind-rootless
 20.10.3-git
 20.10.4
 20.10.4-dind
@@ -880,7 +982,8 @@
 20.10.5
 20.10.5-dind
 20.10.5-dind-rootless
-20.10.6 20.10.5-git
+20.10.5-git
+20.10.6
 20.10.6-dind
 20.10.6-dind-rootless
 20.10.6-git
@@ -889,22 +992,198 @@
 20.10.7-dind-rootless
 20.10.7-git
 20.10.7-windowsservercore
+20.10.7-windowsservercore-1809
 20.10.8
 20.10.8-alpine3.13
 20.10.8-alpine3.14
 20.10.8-dind
 20.10.8-dind-alpine3.13
-20.10.8-dind-rootless 20.10.8-dind-alpine3.14
+20.10.8-dind-alpine3.14
+20.10.8-dind-rootless
 20.10.8-git
 20.10.8-windowsservercore
 20.10.8-windowsservercore-1809
-20.10.9 20.10-git
+20.10.9
 20.10.9-alpine3.14
 20.10.9-dind
 20.10.9-dind-alpine3.14
 20.10.9-dind-rootless
 20.10.9-git
 20.10.9-windowsservercore
+20.10.9-windowsservercore-1809
+20.10.10
+20.10.10-alpine3.14
+20.10.10-dind
+20.10.10-dind-alpine3.14
+20.10.10-dind-rootless
+20.10.10-git
+20.10.10-rc1
+20.10.10-rc1-alpine3.14
+20.10.10-rc1-dind
+20.10.10-rc1-dind-alpine3.14
+20.10.10-rc1-dind-rootless
+20.10.10-rc1-git
+20.10.10-rc1-windowsservercore
+20.10.10-rc1-windowsservercore-1809
+20.10.10-windowsservercore
+20.10.10-windowsservercore-1809
+20.10.11
+20.10.11-alpine3.14
+20.10.11-dind
+20.10.11-dind-alpine3.14
+20.10.11-dind-rootless
+20.10.11-git
+20.10.11-windowsservercore
+20.10.11-windowsservercore-1809
+20.10.12
+20.10.12-alpine3.14
+20.10.12-alpine3.15
+20.10.12-dind
+20.10.12-dind-alpine3.14
+20.10.12-dind-alpine3.15
+20.10.12-dind-rootless
+20.10.12-git
+20.10.12-windowsservercore
+20.10.12-windowsservercore-1809
+20.10.12-windowsservercore-ltsc2022
+20.10.13
+20.10.13-alpine3.15
+20.10.13-dind
+20.10.13-dind-alpine3.15
+20.10.13-dind-rootless
+20.10.13-git
+20.10.13-windowsservercore
+20.10.13-windowsservercore-1809
+20.10.13-windowsservercore-ltsc2022
+20.10.14
+20.10.14-alpine3.15
+20.10.14-dind
+20.10.14-dind-alpine3.15
+20.10.14-dind-rootless
+20.10.14-git
+20.10.14-windowsservercore
+20.10.14-windowsservercore-1809
+20.10.14-windowsservercore-ltsc2022
+20.10.15
+20.10.15-alpine3.15
+20.10.15-dind
+20.10.15-dind-alpine3.15
+20.10.15-dind-rootless
+20.10.15-git
+20.10.15-windowsservercore
+20.10.15-windowsservercore-1809
+20.10.15-windowsservercore-ltsc2022
+20.10.16
+20.10.16-alpine3.15
+20.10.16-alpine3.16
+20.10.16-dind
+20.10.16-dind-alpine3.15
+20.10.16-dind-alpine3.16
+20.10.16-dind-rootless
+20.10.16-git
+20.10.16-windowsservercore
+20.10.16-windowsservercore-1809
+20.10.16-windowsservercore-ltsc2022
+20.10.17
+20.10.17-alpine3.16
+20.10.17-cli
+20.10.17-cli-alpine3.16
+20.10.17-dind
+20.10.17-dind-alpine3.16
+20.10.17-dind-rootless
+20.10.17-git
+20.10.17-windowsservercore
+20.10.17-windowsservercore-1809
+20.10.17-windowsservercore-ltsc2022
+20.10.18
+20.10.18-alpine3.16
+20.10.18-cli
+20.10.18-cli-alpine3.16
+20.10.18-dind
+20.10.18-dind-alpine3.16
+20.10.18-dind-rootless
+20.10.18-git
+20.10.18-windowsservercore
+20.10.18-windowsservercore-1809
+20.10.18-windowsservercore-ltsc2022
+20.10.19
+20.10.19-alpine3.16
+20.10.19-cli
+20.10.19-cli-alpine3.16
+20.10.19-dind
+20.10.19-dind-alpine3.16
+20.10.19-dind-rootless
+20.10.19-git
+20.10.19-windowsservercore
+20.10.19-windowsservercore-1809
+20.10.19-windowsservercore-ltsc2022
+20.10.20
+20.10.20-alpine3.16
+20.10.20-cli
+20.10.20-cli-alpine3.16
+20.10.20-dind
+20.10.20-dind-alpine3.16
+20.10.20-dind-rootless
+20.10.20-git
+20.10.20-windowsservercore
+20.10.20-windowsservercore-1809
+20.10.20-windowsservercore-ltsc2022
+20.10.21
+20.10.21-alpine3.16
+20.10.21-alpine3.17
+20.10.21-cli
+20.10.21-cli-alpine3.16
+20.10.21-cli-alpine3.17
+20.10.21-dind
+20.10.21-dind-alpine3.16
+20.10.21-dind-alpine3.17
+20.10.21-dind-rootless
+20.10.21-git
+20.10.21-windowsservercore
+20.10.21-windowsservercore-1809
+20.10.21-windowsservercore-ltsc2022
+22.06-rc
+22.06-rc-cli
+22.06-rc-dind
+22.06-rc-dind-rootless
+22.06-rc-git
+22.06-rc-windowsservercore
+22.06-rc-windowsservercore-1809
+22.06-rc-windowsservercore-ltsc2022
+22.06.0-beta.0
+22.06.0-beta.0-alpine3.16
+22.06.0-beta.0-alpine3.17
+22.06.0-beta.0-cli
+22.06.0-beta.0-cli-alpine3.16
+22.06.0-beta.0-cli-alpine3.17
+22.06.0-beta.0-dind
+22.06.0-beta.0-dind-alpine3.16
+22.06.0-beta.0-dind-alpine3.17
+22.06.0-beta.0-dind-rootless
+22.06.0-beta.0-git
+22.06.0-beta.0-windowsservercore
+22.06.0-beta.0-windowsservercore-1809
+22.06.0-beta.0-windowsservercore-ltsc2022
+23.0-rc
+23.0-rc-cli
+23.0-rc-dind
+23.0-rc-dind-rootless
+23.0-rc-git
+23.0-rc-windowsservercore
+23.0-rc-windowsservercore-1809
+23.0-rc-windowsservercore-ltsc2022
+23.0.0-beta.1
+23.0.0-beta.1-alpine3.17
+23.0.0-beta.1-cli
+23.0.0-beta.1-cli-alpine3.17
+23.0.0-beta.1-dind
+23.0.0-beta.1-dind-alpine3.17
+23.0.0-beta.1-dind-rootless
+23.0.0-beta.1-git
+23.0.0-beta.1-windowsservercore
+23.0.0-beta.1-windowsservercore-1809
+23.0.0-beta.1-windowsservercore-ltsc2022
+cli
 dind
 dind-rootless
 edge
@@ -915,16 +1194,22 @@ experimental
 experimental-dind
 experimental-git
 git
-rc-dind rc
+latest
+rc
+rc-cli
+rc-dind
 rc-dind-rootless
 rc-experimental
 rc-experimental-dind
 rc-experimental-git
 rc-git
 rc-windowsservercore
+rc-windowsservercore-1809
+rc-windowsservercore-ltsc2022
 stable
 stable-dind
 stable-dind-rootless
+stable-git
 stable-windowsservercore
 stable-windowsservercore-1709
 stable-windowsservercore-ltsc2016
@@ -932,6 +1217,7 @@ test
 test-dind
 test-dind-rootless
 test-git
-windowsservercore 20.10.9-windowsservercore-1809
+test-windowsservercore
+windowsservercore
 windowsservercore-1809
- latest
+windowsservercore-ltsc2022
