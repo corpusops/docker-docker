@@ -55,7 +55,7 @@ RUN sh -c 'set -ex \
     && sed -i -re "s/ dateext/nodateext/g" /etc/logrotate.conf\
     && if ! (grep -q /var/log/messages /etc/logrotate.conf);then\
            printf "\\n/var/log/messages {\\nmissingok\\n}\\n\\n" >>/etc/logrotate.conf;fi\
-    && for i in bin/* system_detect.sh setup_locales.sh cops_pkgmgr_install.sh;do cp -v $i /cops_helpers && ln -sfv /cops_helpers/$i /bin/$i;done\
+    && for i in bin/* system_detect.sh setup_locales.sh cops_pkgmgr_install.sh;do j=$(basename $i);cp -v $i /cops_helpers && ln -sfv /cops_helpers/$j /bin/$j;done\
     && ./${_cops_SYSTEM}_clean.sh \
     '
 COPY --from=ochinchina/supervisord:latest \
@@ -72,7 +72,7 @@ ADD \
     /etc/supervisor.d/
 ADD rootfs/etc/logrotate.conf /etc/
 ADD rootfs/etc/logrotate.d/* /etc/logrotate.d/
-ADD helpers/*_clean.sh /tmp/corpusopssteroids/
+ADD helpers/system_detect.sh helpers/*_clean.sh /tmp/corpusopssteroids/
 RUN sh -c 'set -ex \
     && echo fixperms >&2 \
     && ( chmod -vf g-wx,o-wx /etc/logrotate.d/* /etc/logrotate.conf || true ) \
@@ -81,6 +81,7 @@ RUN sh -c 'set -ex \
     && chmod +x *sh \
     && _cops_SYSTEM=$(./system_detect.sh) \
     && ./${_cops_SYSTEM}_clean.sh \
+    && ./common_clean.sh \
     && cd / && rm -rf /tmp/corpusopssteroids /var/cache/apk/* /var/lib/apt/lists/*'
 USER rootless
 LABEL com.github.corpusops.docker-images-commit="$DOCKER_IMAGES_COMMIT"
